@@ -26,7 +26,7 @@ fn main() -> Result<()> {
         env::set_var("RUST_LOG", "lfg=debug");
     }
     pretty_env_logger::init();
-    let dungeons = read_config()?;
+    let _dungeons = read_config()?;
 
     Ok(())
 }
