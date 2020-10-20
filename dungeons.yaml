@@ -1,0 +1,9 @@
+---
+- name: Dungeon 1
+  tanks: 1
+  healers: 1
+  strikers: 2
+- name: Dungeon 2
+  tanks: 2
+  healers: 2
+  strikers: 4
